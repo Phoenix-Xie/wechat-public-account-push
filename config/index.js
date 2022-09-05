@@ -29,9 +29,9 @@ export const config = {
       // 想要发送的人的名字
       name: "小蒋",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oviKO55MArjqeg0SEv6sJu8J9McA",
+      id: "oviKO5yVVNGoUjarndX6PUMuEYqY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "gWXCb7CTjW65Lw9WiaRekqj8Bw57Ec6MUJUcseXtqFg",
+      useTemplateId: "sJtuqQx26rgH3Jd3VYjkp8kQzZK-U0Vi5NRgPuCPEvo",
       // 所在省份
       province: "山东",
       // 所在城市
@@ -116,8 +116,8 @@ export const config = {
     {"keyword": "lover_prattle", contents: [
       "因为太喜欢你，所以看谁都像是情敌。",
       "申请成为你爱里的永久居民。",
-      "你很傻，你很笨，可我还是很羡慕你，因为你有我",
-      "遇见你，就好像捡到了100斤的运气",
+//       "你很傻，你很笨，可我还是很羡慕你，因为你有我",
+//       "遇见你，就好像捡到了100斤的运气",
     ]},
   ],
 
